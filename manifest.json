@@ -5,6 +5,7 @@
   "description": "FUCK THE COMMERCIALIZE TIEBA", 
   "icons":{"48":"logo48.png","128":"logo.png"},
   "homepage_url": "http://blog.eqoe.cn",
+  "update_url": "https://raw.githubusercontent.com/typcn/Tieba-Anti-Ad-for-Chrome/master/update.xml",
   "permissions": [
     "tabs", "http://tieba.baidu.com/*"
   ],
