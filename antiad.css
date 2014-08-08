@@ -1,6 +1,9 @@
-#j_ten_years,.user_score,.user_tbmall,#onekey_sign,.pre_icon_wrap,.profile_bottom,.j_per_list,.u_app,.split,.u_tbmall,.u_tshow,#game_item,.BAIDU_CLB_AD,.lot_wrap,#tbmall_score_region,.game_tab,.game_content,#game_rank,.tbui_fbar_square,.tb_poster_placeholder,.edui-btn-medal,.add_guessing_btn,.j_surveillance,.icon_wrap,.union_mod,.tbui_fbar_props,.exp_speedup ,.dasense,.sign_tip_sbox_fixsign,.sign_tip_sbox_fixsign,.sign_tip_sbox_bd,#pb_adbanner,.u_wallet,.icon_group,.icon_game,.game_frs_in_head,.save_face_bg,.tbui_placeholder,.pc2client,.d_nameplate,.guessing_watermark,.guessing_pic,.spreadad_iframe,.doupiao_offline,.game_spread_thread,#aside_ad,.live_show,.member_rank{
+#j_ten_years,.user_score,.user_tbmall,#onekey_sign,.pre_icon_wrap,.profile_bottom,.j_per_list,.u_app,.split,.u_tbmall,.u_tshow,#game_item,.BAIDU_CLB_AD,.lot_wrap,#tbmall_score_region,.game_tab,.game_content,#game_rank,.tbui_fbar_square,.tb_poster_placeholder,.edui-btn-medal,.add_guessing_btn,.j_surveillance,.icon_wrap,.union_mod,.tbui_fbar_props,.exp_speedup ,.dasense,.sign_tip_sbox_fixsign,.sign_tip_sbox_fixsign,.sign_tip_sbox_bd,#pb_adbanner,.u_wallet,.icon_group,.icon_game,.game_frs_in_head,.save_face_bg,.tbui_placeholder,.pc2client,.d_nameplate,.guessing_watermark,.guessing_pic,.spreadad_iframe,.doupiao_offline,.game_spread_thread,#aside_ad,.live_show,.member_rank,.fMember_cnt{
 display:none !important;
 }
 .fiesta_member_red{
 	color:black !important;
+}
+.user_level{
+	margin-left:38px !important;
 }
