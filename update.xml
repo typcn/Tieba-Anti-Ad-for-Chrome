@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ffleijgaapfjbmhepoonkgplbbkiemkh'>
-    <updatecheck codebase='https://github.com/typcn/Tieba-Anti-Ad-for-Chrome/releases/download/0.7/TiebaAntiAd4Cr.crx' version='0.7' />
+    <updatecheck codebase='https://github.com/typcn/Tieba-Anti-Ad-for-Chrome/releases/download/0.8/TiebaAntiAd4Cr.crx' version='0.8' />
   </app>
 </gupdate>

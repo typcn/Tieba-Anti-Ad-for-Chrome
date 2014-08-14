@@ -5,7 +5,7 @@ for (var i = 0; i < hyred.length; i++) {
 }
 var hyred2 = document.getElementsByClassName("d_author");
 for (var i = 0; i < hyred2.length; i++) {
-	hyred2[i].innerHTML = hyred2[i].innerHTML.replace("vip_red", "").replace("beMember_fl", "").replace(/style=.*no-repeat;border:none\"/g, "")
+	hyred2[i].innerHTML = hyred2[i].innerHTML.replace("vip_red", "").replace("beMember_fl", "").replace(/style=.*no-repeat;border:none\"/g, "").replace(/src=.*?tb-lazyload=\"(.*?)\"/g, "src=\"$1\"")
 }
 setTimeout(function() {
 	var hyred3 = document.getElementsByClassName("lzl_cnt");
